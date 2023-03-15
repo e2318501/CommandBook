@@ -1,0 +1,4 @@
+name: CommandBook
+version: '${project.version}'
+main: com.github.tsuoihito.commandbook.CommandBook
+api-version: 1.19
